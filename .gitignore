@@ -1,6 +1,6 @@
 ### IntelliJ IDEA ###
 out/
-!**/src/main/**/out/
+!**/src/com.workintech.com.workintech.com.workintech.main.main.com.workintech.main.model.com.workintech.main.main/**/out/
 !**/src/test/**/out/
 
 ### Eclipse ###
@@ -12,7 +12,7 @@ out/
 .springBeans
 .sts4-cache
 bin/
-!**/src/main/**/bin/
+!**/src/com.workintech.com.workintech.com.workintech.main.main.com.workintech.main.model.com.workintech.main.main/**/bin/
 !**/src/test/**/bin/
 
 ### NetBeans ###
